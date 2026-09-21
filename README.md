@@ -2,8 +2,6 @@
 
 I contribute bug fixes, performance improvements, and reliability improvements to open-source AI, agent, and developer-tool projects.
 
-This page lists 37 merged pull requests across 11 repositories. The star badges are fetched dynamically from GitHub, so their counts update as repository stars change.
-
 | Project | PR | What I fixed |
 | --- | --- | --- |
 | [Dify](https://github.com/langgenius/dify) [![★](https://img.shields.io/github/stars/langgenius/dify?style=flat&label=%E2%98%85)](https://github.com/langgenius/dify) | [#33116](https://github.com/langgenius/dify/pull/33116) | Updated the backend contributor guide to recommend TypedDict for fixed-shape dictionary data. |
